@@ -101,17 +101,17 @@
     "slug": "ageg-website-prod",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "97.98%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "97.99%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.44%",
     "time": 640,
-    "timeDay": 283,
-    "timeWeek": 309,
-    "timeMonth": 318,
-    "timeYear": 631,
+    "timeDay": 298,
+    "timeWeek": 311,
+    "timeMonth": 319,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-11-28": 66,
+      "2025-11-28": 65,
       "2025-11-27": 17,
       "2025-11-26": 78,
       "2025-11-25": 42,
@@ -190,17 +190,17 @@
     "slug": "ageg-website-redirect",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "97.98%",
+    "uptimeDay": "95.45%",
+    "uptimeWeek": "97.99%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.44%",
-    "time": 597,
-    "timeDay": 768,
-    "timeWeek": 808,
-    "timeMonth": 833,
-    "timeYear": 597,
+    "time": 598,
+    "timeDay": 758,
+    "timeWeek": 806,
+    "timeMonth": 832,
+    "timeYear": 595,
     "dailyMinutesDown": {
-      "2025-11-28": 66,
+      "2025-11-28": 65,
       "2025-11-27": 17,
       "2025-11-26": 79,
       "2025-11-25": 42,
@@ -289,7 +289,7 @@
     "timeMonth": 285,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2025-11-28": 1415,
+      "2025-11-28": 1439,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -552,8 +552,8 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "93.33%",
     "time": 208,
-    "timeDay": 163,
-    "timeWeek": 170,
+    "timeDay": 161,
+    "timeWeek": 169,
     "timeMonth": 166,
     "timeYear": 210,
     "dailyMinutesDown": {
@@ -621,10 +621,10 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "92.46%",
     "time": 229,
-    "timeDay": 203,
-    "timeWeek": 204,
+    "timeDay": 208,
+    "timeWeek": 205,
     "timeMonth": 202,
-    "timeYear": 229,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2025-11-28": 55,
       "2025-11-27": 17,
@@ -693,8 +693,8 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "92.45%",
     "time": 229,
-    "timeDay": 186,
-    "timeWeek": 197,
+    "timeDay": 195,
+    "timeWeek": 198,
     "timeMonth": 197,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -766,8 +766,8 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "92.45%",
     "time": 230,
-    "timeDay": 186,
-    "timeWeek": 194,
+    "timeDay": 196,
+    "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 231,
     "dailyMinutesDown": {
@@ -839,8 +839,8 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "71.55%",
     "time": 250,
-    "timeDay": 233,
-    "timeWeek": 254,
+    "timeDay": 238,
+    "timeWeek": 255,
     "timeMonth": 258,
     "timeYear": 248,
     "dailyMinutesDown": {
@@ -991,7 +991,7 @@
     "uptimeMonth": "99.01%",
     "uptimeYear": "84.58%",
     "time": 223,
-    "timeDay": 208,
+    "timeDay": 212,
     "timeWeek": 223,
     "timeMonth": 227,
     "timeYear": 221,
@@ -1222,7 +1222,8 @@
     "timeMonth": 0,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-11-28": 1421,
+      "2025-11-29": 7,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -1585,8 +1586,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -1606,7 +1606,8 @@
     "timeMonth": 309,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-11-28": 1421,
+      "2025-11-29": 7,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -1969,8 +1970,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -1990,7 +1990,8 @@
     "timeMonth": 217,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-11-28": 1421,
+      "2025-11-29": 7,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -2353,8 +2354,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
