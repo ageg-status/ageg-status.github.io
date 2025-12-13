@@ -11,8 +11,8 @@
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.36%",
     "time": 437,
-    "timeDay": 498,
-    "timeWeek": 470,
+    "timeDay": 493,
+    "timeWeek": 469,
     "timeMonth": 492,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -111,7 +111,7 @@
     "uptimeMonth": "98.00%",
     "uptimeYear": "99.35%",
     "time": 615,
-    "timeDay": 287,
+    "timeDay": 284,
     "timeWeek": 324,
     "timeMonth": 322,
     "timeYear": 604,
@@ -210,7 +210,7 @@
     "uptimeMonth": "98.00%",
     "uptimeYear": "99.36%",
     "time": 606,
-    "timeDay": 785,
+    "timeDay": 783,
     "timeWeek": 835,
     "timeMonth": 840,
     "timeYear": 607,
@@ -303,18 +303,19 @@
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
     "status": "down",
-    "uptime": "84.08%",
+    "uptime": "84.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "37.53%",
+    "uptimeYear": "37.50%",
     "time": 339,
-    "timeDay": 280,
-    "timeWeek": 268,
+    "timeDay": 277,
+    "timeWeek": 269,
     "timeMonth": 291,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-12-12": 1363,
+      "2025-12-13": 46,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -591,7 +592,7 @@
     "uptimeMonth": "98.08%",
     "uptimeYear": "93.24%",
     "time": 207,
-    "timeDay": 174,
+    "timeDay": 173,
     "timeWeek": 164,
     "timeMonth": 163,
     "timeYear": 210,
@@ -755,8 +756,8 @@
     "uptimeMonth": "97.93%",
     "uptimeYear": "92.35%",
     "time": 230,
-    "timeDay": 306,
-    "timeWeek": 258,
+    "timeDay": 308,
+    "timeWeek": 260,
     "timeMonth": 218,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -841,7 +842,7 @@
     "uptimeMonth": "98.08%",
     "uptimeYear": "92.36%",
     "time": 231,
-    "timeDay": 275,
+    "timeDay": 271,
     "timeWeek": 246,
     "timeMonth": 213,
     "timeYear": 233,
@@ -923,10 +924,10 @@
     "uptimeDay": "98.59%",
     "uptimeWeek": "97.38%",
     "uptimeMonth": "98.00%",
-    "uptimeYear": "73.19%",
-    "time": 249,
-    "timeDay": 242,
-    "timeWeek": 250,
+    "uptimeYear": "73.22%",
+    "time": 248,
+    "timeDay": 240,
+    "timeWeek": 249,
     "timeMonth": 258,
     "timeYear": 248,
     "dailyMinutesDown": {
@@ -1066,8 +1067,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -1076,11 +1076,11 @@
     "icon": "https://okto.ageg.ca/favicon.ico",
     "slug": "oktoberfest-prod",
     "status": "up",
-    "uptime": "82.74%",
+    "uptime": "82.75%",
     "uptimeDay": "98.59%",
     "uptimeWeek": "97.39%",
     "uptimeMonth": "98.00%",
-    "uptimeYear": "86.23%",
+    "uptimeYear": "86.25%",
     "time": 221,
     "timeDay": 208,
     "timeWeek": 220,
@@ -1193,8 +1193,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -1209,9 +1208,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 221,
-    "timeWeek": 169,
-    "timeMonth": 152,
+    "timeDay": 200,
+    "timeWeek": 166,
+    "timeMonth": 151,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2025-06-12": 22
@@ -1229,8 +1228,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 164,
-    "timeDay": 138,
-    "timeWeek": 149,
+    "timeDay": 139,
+    "timeWeek": 147,
     "timeMonth": 136,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -1250,7 +1249,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 160,
-    "timeDay": 128,
+    "timeDay": 125,
     "timeWeek": 142,
     "timeMonth": 143,
     "timeYear": 160,
@@ -1271,8 +1270,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 250,
-    "timeDay": 259,
-    "timeWeek": 222,
+    "timeDay": 256,
+    "timeWeek": 223,
     "timeMonth": 231,
     "timeYear": 250,
     "dailyMinutesDown": {
@@ -1292,7 +1291,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 158,
-    "timeDay": 141,
+    "timeDay": 163,
     "timeWeek": 143,
     "timeMonth": 153,
     "timeYear": 158,
@@ -1318,7 +1317,8 @@
     "timeMonth": 0,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2025-12-12": 1371,
+      "2025-12-13": 55,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -1681,8 +1681,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -1702,7 +1701,8 @@
     "timeMonth": 328,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-12-12": 1371,
+      "2025-12-13": 55,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -2065,8 +2065,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -2081,12 +2080,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 228,
-    "timeDay": 218,
+    "timeDay": 214,
     "timeWeek": 228,
     "timeMonth": 224,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-12-12": 1372,
+      "2025-12-13": 55,
+      "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -2449,8 +2449,7 @@
       "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
-      "2024-12-14": 1440,
-      "2024-12-13": 1440
+      "2024-12-14": 1440
     }
   },
   {
@@ -2465,7 +2464,7 @@
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.46%",
     "time": 177,
-    "timeDay": 168,
+    "timeDay": 167,
     "timeWeek": 181,
     "timeMonth": 196,
     "timeYear": 178,
@@ -2561,7 +2560,7 @@
     "uptimeMonth": "98.63%",
     "uptimeYear": "99.49%",
     "time": 264,
-    "timeDay": 255,
+    "timeDay": 254,
     "timeWeek": 274,
     "timeMonth": 272,
     "timeYear": 265,
