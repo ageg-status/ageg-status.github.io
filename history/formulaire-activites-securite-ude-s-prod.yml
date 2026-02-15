@@ -1,7 +1,7 @@
 url: https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-15T08:18:51.496Z
+status: up
+code: 200
+responseTime: 286
+lastUpdated: 2026-02-15T09:31:04.704Z
 startTime: 2021-12-20T20:40:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
