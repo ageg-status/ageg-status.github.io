@@ -4,11 +4,11 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "94.59%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "98.35%",
     "time": 450,
     "timeDay": 453,
@@ -16,6 +16,7 @@
     "timeMonth": 448,
     "timeYear": 452,
     "dailyMinutesDown": {
+      "2026-03-07": 3,
       "2026-03-06": 32,
       "2026-03-05": 20,
       "2026-03-04": 19,
@@ -80,8 +81,7 @@
       "2025-12-03": 47,
       "2025-12-02": 43,
       "2025-12-01": 79,
-      "2025-11-30": 22,
-      "2025-11-28": 49
+      "2025-11-30": 22
     }
   },
   {
@@ -268,7 +268,7 @@
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
     "status": "down",
-    "uptime": "79.49%",
+    "uptime": "79.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -279,7 +279,7 @@
     "timeMonth": 267,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2026-03-07": 1125,
+      "2026-03-07": 1150,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -711,7 +711,7 @@
     "uptime": "97.15%",
     "uptimeDay": "94.72%",
     "uptimeWeek": "93.84%",
-    "uptimeMonth": "68.63%",
+    "uptimeMonth": "68.69%",
     "uptimeYear": "87.88%",
     "time": 344,
     "timeDay": 215,
@@ -822,7 +822,7 @@
     "uptime": "97.14%",
     "uptimeDay": "94.72%",
     "uptimeWeek": "95.51%",
-    "uptimeMonth": "68.67%",
+    "uptimeMonth": "68.73%",
     "uptimeYear": "87.83%",
     "time": 310,
     "timeDay": 258,
@@ -940,7 +940,7 @@
     "uptime": "97.14%",
     "uptimeDay": "94.72%",
     "uptimeWeek": "95.51%",
-    "uptimeMonth": "68.31%",
+    "uptimeMonth": "68.36%",
     "uptimeYear": "87.81%",
     "time": 306,
     "timeDay": 249,
@@ -1302,7 +1302,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 249,
+    "time": 250,
     "timeDay": 280,
     "timeWeek": 256,
     "timeMonth": 243,
@@ -1350,7 +1350,7 @@
     "timeMonth": 0,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2026-03-07": 1132,
+      "2026-03-07": 1160,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -1734,7 +1734,7 @@
     "timeMonth": 372,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2026-03-07": 1132,
+      "2026-03-07": 1160,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -2118,7 +2118,7 @@
     "timeMonth": 226,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2026-03-07": 1132,
+      "2026-03-07": 1161,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -2490,11 +2490,11 @@
     "url": "https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "formulaire-activites-securite-ude-s-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "94.95%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "98.39%",
     "time": 194,
     "timeDay": 192,
@@ -2502,6 +2502,7 @@
     "timeMonth": 240,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2026-03-07": 16,
       "2026-03-06": 31,
       "2026-03-05": 18,
       "2026-03-04": 17,
@@ -2567,7 +2568,7 @@
       "2025-11-26": 46,
       "2025-11-15": 34,
       "2025-11-14": 43,
-      "2025-11-13": 42
+      "2025-11-13": 19
     }
   },
   {
@@ -2575,18 +2576,19 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/formulaires/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "formulaire-activites-securite-ude-s-redirect",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "94.97%",
-    "uptimeYear": "98.39%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "95.00%",
+    "uptimeYear": "98.40%",
     "time": 283,
     "timeDay": 266,
     "timeWeek": 310,
     "timeMonth": 339,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2026-03-07": 16,
       "2026-03-06": 30,
       "2026-03-05": 18,
       "2026-03-04": 16,
@@ -2652,7 +2654,7 @@
       "2025-11-26": 46,
       "2025-11-15": 34,
       "2025-11-14": 43,
-      "2025-11-13": 42
+      "2025-11-13": 19
     }
   }
 ]
