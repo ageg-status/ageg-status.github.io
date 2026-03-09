@@ -6,17 +6,17 @@
     "slug": "ude-s-website-prod",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "98.36%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "96.62%",
+    "uptimeYear": "98.35%",
     "time": 451,
     "timeDay": 456,
     "timeWeek": 460,
     "timeMonth": 448,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2026-03-08": 34,
+      "2026-03-08": 30,
       "2026-03-07": 22,
       "2026-03-06": 32,
       "2026-03-05": 20,
@@ -81,7 +81,7 @@
       "2025-12-04": 69,
       "2025-12-03": 47,
       "2025-12-02": 43,
-      "2025-12-01": 23
+      "2025-12-01": 79
     }
   },
   {
@@ -93,12 +93,12 @@
     "uptime": "99.76%",
     "uptimeDay": "96.59%",
     "uptimeWeek": "97.07%",
-    "uptimeMonth": "96.72%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "98.98%",
     "time": 469,
     "timeDay": 406,
     "timeWeek": 336,
-    "timeMonth": 348,
+    "timeMonth": 349,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2026-03-08": 49,
@@ -181,12 +181,12 @@
     "uptime": "99.76%",
     "uptimeDay": "96.58%",
     "uptimeWeek": "97.07%",
-    "uptimeMonth": "96.72%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "98.98%",
     "time": 677,
     "timeDay": 877,
     "timeWeek": 830,
-    "timeMonth": 862,
+    "timeMonth": 864,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2026-03-08": 49,
@@ -270,14 +270,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "14.08%",
+    "uptimeYear": "14.06%",
     "time": 295,
     "timeDay": 324,
     "timeWeek": 257,
-    "timeMonth": 270,
+    "timeMonth": 271,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2026-03-08": 1412,
+      "2026-03-09": 64,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -620,7 +621,7 @@
     "uptime": "99.76%",
     "uptimeDay": "96.58%",
     "uptimeWeek": "97.07%",
-    "uptimeMonth": "96.72%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "98.98%",
     "time": 207,
     "timeDay": 174,
@@ -709,7 +710,7 @@
     "uptime": "97.15%",
     "uptimeDay": "94.01%",
     "uptimeWeek": "92.99%",
-    "uptimeMonth": "72.38%",
+    "uptimeMonth": "72.59%",
     "uptimeYear": "87.87%",
     "time": 342,
     "timeDay": 332,
@@ -820,7 +821,7 @@
     "uptime": "97.14%",
     "uptimeDay": "96.58%",
     "uptimeWeek": "95.02%",
-    "uptimeMonth": "72.51%",
+    "uptimeMonth": "72.71%",
     "uptimeYear": "87.83%",
     "time": 311,
     "timeDay": 294,
@@ -937,12 +938,12 @@
     "uptime": "97.14%",
     "uptimeDay": "96.58%",
     "uptimeWeek": "95.02%",
-    "uptimeMonth": "72.14%",
+    "uptimeMonth": "72.35%",
     "uptimeYear": "87.81%",
     "time": 306,
     "timeDay": 280,
     "timeWeek": 295,
-    "timeMonth": 407,
+    "timeMonth": 408,
     "timeYear": 309,
     "dailyMinutesDown": {
       "2026-03-08": 49,
@@ -1056,7 +1057,7 @@
     "uptime": "99.71%",
     "uptimeDay": "96.58%",
     "uptimeWeek": "97.06%",
-    "uptimeMonth": "96.71%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "98.98%",
     "time": 250,
     "timeDay": 309,
@@ -1144,7 +1145,7 @@
     "uptime": "99.71%",
     "uptimeDay": "96.58%",
     "uptimeWeek": "97.06%",
-    "uptimeMonth": "96.71%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "98.98%",
     "time": 220,
     "timeDay": 269,
@@ -1344,7 +1345,8 @@
     "timeMonth": 0,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2026-03-08": 1422,
+      "2026-03-09": 74,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -1707,8 +1709,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
@@ -1717,7 +1718,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "securite-ude-s-prod",
     "status": "down",
-    "uptime": "63.26%",
+    "uptime": "63.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1728,7 +1729,8 @@
     "timeMonth": 373,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-03-08": 1423,
+      "2026-03-09": 75,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -2091,8 +2093,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
@@ -2112,7 +2113,8 @@
     "timeMonth": 226,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2026-03-08": 1423,
+      "2026-03-09": 75,
+      "2026-03-08": 1440,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -2475,8 +2477,7 @@
       "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
-      "2025-03-10": 1440,
-      "2025-03-09": 1440
+      "2025-03-10": 1440
     }
   },
   {
