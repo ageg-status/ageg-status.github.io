@@ -1,7 +1,7 @@
 url: https://okto-ageg-staging.gitlab.io/
-status: up
+status: degraded
 code: 200
-responseTime: 379
-lastUpdated: 2026-06-05T06:07:17.156Z
+responseTime: 465
+lastUpdated: 2026-06-05T10:14:01.440Z
 startTime: 2022-08-27T16:26:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
