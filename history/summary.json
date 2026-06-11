@@ -4,16 +4,16 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "81.62%",
-    "uptimeWeek": "72.72%",
-    "uptimeMonth": "83.66%",
+    "uptimeDay": "81.81%",
+    "uptimeWeek": "72.61%",
+    "uptimeMonth": "83.63%",
     "uptimeYear": "97.43%",
     "time": 473,
-    "timeDay": 629,
-    "timeWeek": 557,
-    "timeMonth": 631,
+    "timeDay": 606,
+    "timeWeek": 555,
+    "timeMonth": 630,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2026-03-13": 18,
@@ -72,7 +72,7 @@
       "2026-06-08": 545,
       "2026-06-09": 463,
       "2026-06-10": 228,
-      "2026-06-11": 240
+      "2026-06-11": 251
     }
   },
   {
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2026-06-11": 1405,
+      "2026-06-11": 1419,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -660,7 +660,7 @@
     "slug": "integration-redirect",
     "status": "degraded",
     "uptime": "95.92%",
-    "uptimeDay": "17.23%",
+    "uptimeDay": "16.34%",
     "uptimeWeek": "8.53%",
     "uptimeMonth": "4.31%",
     "uptimeYear": "81.56%",
@@ -766,7 +766,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-06-10": 1135,
-      "2026-06-11": 1180
+      "2026-06-11": 1193
     }
   },
   {
@@ -776,7 +776,7 @@
     "slug": "integs-redirect",
     "status": "degraded",
     "uptime": "95.58%",
-    "uptimeDay": "17.24%",
+    "uptimeDay": "16.35%",
     "uptimeWeek": "10.75%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "80.01%",
@@ -891,7 +891,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-06-10": 1040,
-      "2026-06-11": 1180
+      "2026-06-11": 1193
     }
   },
   {
@@ -901,7 +901,7 @@
     "slug": "integ-redirect",
     "status": "degraded",
     "uptime": "95.57%",
-    "uptimeDay": "17.24%",
+    "uptimeDay": "16.36%",
     "uptimeWeek": "10.77%",
     "uptimeMonth": "4.96%",
     "uptimeYear": "79.97%",
@@ -1016,7 +1016,7 @@
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-06-10": 1039,
-      "2026-06-11": 1180
+      "2026-06-11": 1193
     }
   },
   {
@@ -1103,7 +1103,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-06-11": 1408,
+      "2026-06-11": 1421,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -1277,7 +1277,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-06-11": 1409,
+      "2026-06-11": 1421,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -1420,7 +1420,7 @@
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.29%",
-    "uptimeMonth": "93.64%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.40%",
     "time": 170,
     "timeDay": 304,
@@ -1467,7 +1467,7 @@
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.22%",
-    "uptimeMonth": "88.93%",
+    "uptimeMonth": "88.96%",
     "uptimeYear": "98.75%",
     "time": 181,
     "timeDay": 322,
@@ -1541,16 +1541,16 @@
     "url": "https://2mdgstaging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
-    "status": "degraded",
+    "status": "up",
     "uptime": "95.65%",
-    "uptimeDay": "76.48%",
-    "uptimeWeek": "87.77%",
-    "uptimeMonth": "85.08%",
+    "uptimeDay": "76.19%",
+    "uptimeWeek": "87.73%",
+    "uptimeMonth": "85.09%",
     "uptimeYear": "98.39%",
     "time": 171,
-    "timeDay": 370,
-    "timeWeek": 372,
-    "timeMonth": 365,
+    "timeDay": 351,
+    "timeWeek": 369,
+    "timeMonth": 364,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2025-06-12": 22,
@@ -1590,7 +1590,7 @@
       "2026-06-08": 113,
       "2026-06-09": 142,
       "2026-06-10": 318,
-      "2026-06-11": 338
+      "2026-06-11": 343
     }
   },
   {
@@ -1610,7 +1610,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-11": 1411,
+      "2026-06-11": 1423,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -1994,7 +1994,7 @@
     "timeMonth": 305,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2026-06-11": 1411,
+      "2026-06-11": 1423,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -2378,7 +2378,7 @@
     "timeMonth": 532,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2026-06-11": 1412,
+      "2026-06-11": 1423,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -2750,16 +2750,16 @@
     "url": "https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "formulaire-activites-securite-ude-s-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "84.18%",
-    "uptimeWeek": "77.31%",
-    "uptimeMonth": "87.09%",
+    "uptimeDay": "84.73%",
+    "uptimeWeek": "77.28%",
+    "uptimeMonth": "87.08%",
     "uptimeYear": "96.91%",
     "time": 229,
-    "timeDay": 565,
-    "timeWeek": 869,
-    "timeMonth": 566,
+    "timeDay": 534,
+    "timeWeek": 858,
+    "timeMonth": 565,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2026-03-04": 17,
@@ -2826,7 +2826,7 @@
       "2026-06-08": 442,
       "2026-06-09": 406,
       "2026-06-10": 191,
-      "2026-06-11": 209
+      "2026-06-11": 213
     }
   },
   {
@@ -2834,16 +2834,16 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/formulaires/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "formulaire-activites-securite-ude-s-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "84.85%",
-    "uptimeWeek": "78.77%",
-    "uptimeMonth": "87.62%",
+    "uptimeDay": "85.42%",
+    "uptimeWeek": "78.74%",
+    "uptimeMonth": "87.61%",
     "uptimeYear": "96.93%",
     "time": 319,
-    "timeDay": 777,
-    "timeWeek": 652,
-    "timeMonth": 657,
+    "timeDay": 739,
+    "timeWeek": 648,
+    "timeMonth": 656,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2026-02-27": 35,
@@ -2911,7 +2911,7 @@
       "2026-06-08": 432,
       "2026-06-09": 393,
       "2026-06-10": 181,
-      "2026-06-11": 200
+      "2026-06-11": 203
     }
   }
 ]
