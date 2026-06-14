@@ -4,16 +4,16 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "54.57%",
-    "uptimeWeek": "68.63%",
-    "uptimeMonth": "80.89%",
-    "uptimeYear": "97.48%",
+    "uptimeDay": "49.85%",
+    "uptimeWeek": "67.95%",
+    "uptimeMonth": "80.74%",
+    "uptimeYear": "97.47%",
     "time": 473,
-    "timeDay": 594,
-    "timeWeek": 584,
-    "timeMonth": 570,
+    "timeDay": 571,
+    "timeWeek": 580,
+    "timeMonth": 569,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2026-03-25": 129,
@@ -67,7 +67,7 @@
       "2026-06-11": 251,
       "2026-06-12": 434,
       "2026-06-13": 706,
-      "2026-06-14": 339
+      "2026-06-14": 407
     }
   },
   {
@@ -75,16 +75,16 @@
     "url": "https://www.ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "83.75%",
-    "uptimeMonth": "88.01%",
-    "uptimeYear": "97.57%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "83.09%",
+    "uptimeMonth": "87.86%",
+    "uptimeYear": "97.55%",
     "time": 356,
-    "timeDay": 337,
-    "timeWeek": 298,
-    "timeMonth": 305,
+    "timeDay": 327,
+    "timeWeek": 297,
+    "timeMonth": 304,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2026-03-15": 106,
@@ -140,7 +140,7 @@
       "2026-06-09": 477,
       "2026-06-10": 369,
       "2026-06-12": 171,
-      "2026-06-14": 28
+      "2026-06-14": 94
     }
   },
   {
@@ -148,15 +148,15 @@
     "url": "https://ageg.ca/",
     "icon": "https://www.ageg.ca/wp-content/uploads/2019/06/cropped-59079205_1502880046509656_7925612428161712128_n-192x192.png",
     "slug": "ageg-website-redirect",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "83.76%",
-    "uptimeMonth": "88.03%",
-    "uptimeYear": "97.57%",
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "93.45%",
+    "uptimeWeek": "83.11%",
+    "uptimeMonth": "87.88%",
+    "uptimeYear": "97.56%",
     "time": 782,
-    "timeDay": 984,
-    "timeWeek": 778,
+    "timeDay": 983,
+    "timeWeek": 781,
     "timeMonth": 874,
     "timeYear": 794,
     "dailyMinutesDown": {
@@ -213,7 +213,7 @@
       "2026-06-09": 476,
       "2026-06-10": 369,
       "2026-06-12": 171,
-      "2026-06-14": 29
+      "2026-06-14": 94
     }
   },
   {
@@ -233,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2026-06-14": 815,
+      "2026-06-14": 885,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -605,16 +605,16 @@
     "url": "https://integrations.ageg.ca/",
     "icon": "https://integrations.ageg.ca/favicon.ico",
     "slug": "integrations-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "62.73%",
-    "uptimeWeek": "58.30%",
-    "uptimeMonth": "66.45%",
-    "uptimeYear": "97.20%",
-    "time": 205,
-    "timeDay": 278,
-    "timeWeek": 247,
-    "timeMonth": 258,
+    "uptimeDay": "58.21%",
+    "uptimeWeek": "57.65%",
+    "uptimeMonth": "66.30%",
+    "uptimeYear": "97.19%",
+    "time": 204,
+    "timeDay": 268,
+    "timeWeek": 245,
+    "timeMonth": 257,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2026-05-15": 38,
@@ -646,7 +646,7 @@
       "2026-06-11": 408,
       "2026-06-12": 939,
       "2026-06-13": 213,
-      "2026-06-14": 382
+      "2026-06-14": 447
     }
   },
   {
@@ -654,16 +654,16 @@
     "url": "https://integration.ageg.ca/",
     "icon": "https://integration.ageg.ca/favicon.ico",
     "slug": "integration-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "95.79%",
-    "uptimeDay": "21.89%",
-    "uptimeWeek": "11.66%",
-    "uptimeMonth": "1.19%",
-    "uptimeYear": "80.94%",
+    "uptimeDay": "22.33%",
+    "uptimeWeek": "11.72%",
+    "uptimeMonth": "1.20%",
+    "uptimeYear": "80.92%",
     "time": 455,
-    "timeDay": 608,
-    "timeWeek": 650,
-    "timeMonth": 816,
+    "timeDay": 589,
+    "timeWeek": 646,
+    "timeMonth": 814,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2026-03-02": 121,
@@ -764,7 +764,7 @@
       "2026-06-11": 1213,
       "2026-06-13": 1227,
       "2026-06-12": 1440,
-      "2026-06-14": 714
+      "2026-06-14": 777
     }
   },
   {
@@ -772,16 +772,16 @@
     "url": "https://integs.ageg.ca/",
     "icon": "https://integs.ageg.ca/favicon.ico",
     "slug": "integs-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "95.83%",
-    "uptimeDay": "22.64%",
-    "uptimeWeek": "13.99%",
-    "uptimeMonth": "1.79%",
-    "uptimeYear": "81.13%",
+    "uptimeDay": "23.10%",
+    "uptimeWeek": "14.05%",
+    "uptimeMonth": "1.80%",
+    "uptimeYear": "81.11%",
     "time": 396,
-    "timeDay": 614,
-    "timeWeek": 657,
-    "timeMonth": 786,
+    "timeDay": 598,
+    "timeWeek": 654,
+    "timeMonth": 785,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2026-03-02": 200,
@@ -882,7 +882,7 @@
       "2026-06-11": 1213,
       "2026-06-13": 1217,
       "2026-06-12": 1440,
-      "2026-06-14": 714
+      "2026-06-14": 777
     }
   },
   {
@@ -890,16 +890,16 @@
     "url": "https://integ.ageg.ca/",
     "icon": "https://integ.ageg.ca/favicon.ico",
     "slug": "integ-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "95.83%",
-    "uptimeDay": "22.70%",
-    "uptimeWeek": "14.01%",
-    "uptimeMonth": "1.79%",
-    "uptimeYear": "81.13%",
+    "uptimeDay": "23.19%",
+    "uptimeWeek": "14.08%",
+    "uptimeMonth": "1.81%",
+    "uptimeYear": "81.12%",
     "time": 390,
-    "timeDay": 538,
-    "timeWeek": 625,
-    "timeMonth": 783,
+    "timeDay": 527,
+    "timeWeek": 622,
+    "timeMonth": 782,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2026-02-26": 59,
@@ -1002,7 +1002,7 @@
       "2026-06-11": 1212,
       "2026-06-13": 1216,
       "2026-06-12": 1440,
-      "2026-06-14": 714
+      "2026-06-14": 777
     }
   },
   {
@@ -1015,7 +1015,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.29%",
+    "uptimeYear": "74.27%",
     "time": 251,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1089,7 +1089,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-06-14": 817,
+      "2026-06-14": 888,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1192,7 +1192,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.29%",
+    "uptimeYear": "74.27%",
     "time": 221,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1266,7 +1266,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-06-14": 818,
+      "2026-06-14": 888,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1534,7 +1534,7 @@
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
     "status": "up",
-    "uptime": "95.64%",
+    "uptime": "95.65%",
     "uptimeDay": "92.52%",
     "uptimeWeek": "87.43%",
     "uptimeMonth": "84.99%",
@@ -1604,7 +1604,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-14": 819,
+      "2026-06-14": 890,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -1988,7 +1988,7 @@
     "timeMonth": 313,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2026-06-14": 820,
+      "2026-06-14": 890,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -2372,7 +2372,7 @@
     "timeMonth": 541,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2026-06-14": 820,
+      "2026-06-14": 891,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
@@ -2744,16 +2744,16 @@
     "url": "https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "formulaire-activites-securite-ude-s-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "60.49%",
-    "uptimeWeek": "72.72%",
-    "uptimeMonth": "84.40%",
-    "uptimeYear": "96.70%",
+    "uptimeDay": "56.24%",
+    "uptimeWeek": "72.12%",
+    "uptimeMonth": "84.26%",
+    "uptimeYear": "96.69%",
     "time": 231,
-    "timeDay": 515,
-    "timeWeek": 511,
-    "timeMonth": 573,
+    "timeDay": 491,
+    "timeWeek": 507,
+    "timeMonth": 572,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2026-03-12": 54,
@@ -2815,7 +2815,7 @@
       "2026-06-11": 213,
       "2026-06-12": 416,
       "2026-06-13": 651,
-      "2026-06-14": 290
+      "2026-06-14": 351
     }
   },
   {
@@ -2823,16 +2823,16 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/formulaires/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "formulaire-activites-securite-ude-s-redirect",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "62.15%",
-    "uptimeWeek": "73.92%",
-    "uptimeMonth": "85.02%",
-    "uptimeYear": "96.72%",
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "57.92%",
+    "uptimeWeek": "73.31%",
+    "uptimeMonth": "84.89%",
+    "uptimeYear": "96.70%",
     "time": 321,
-    "timeDay": 704,
-    "timeWeek": 719,
-    "timeMonth": 663,
+    "timeDay": 673,
+    "timeWeek": 714,
+    "timeMonth": 662,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2026-03-07": 20,
@@ -2897,7 +2897,7 @@
       "2026-06-11": 189,
       "2026-06-12": 410,
       "2026-06-13": 636,
-      "2026-06-14": 275
+      "2026-06-14": 336
     }
   }
 ]
