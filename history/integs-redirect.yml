@@ -1,7 +1,7 @@
 url: https://integs.ageg.ca/
-status: degraded
-code: 200
-responseTime: 1324
-lastUpdated: 2026-06-19T20:41:40.218Z
+status: down
+code: 415
+responseTime: 105
+lastUpdated: 2026-06-19T22:13:47.774Z
 startTime: 2021-12-05T03:04:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
