@@ -1,7 +1,7 @@
 url: https://2mdgstaging.gitlab.io/
-status: up
+status: degraded
 code: 200
-responseTime: 317
-lastUpdated: 2026-06-30T20:58:02.754Z
+responseTime: 480
+lastUpdated: 2026-06-30T22:22:11.291Z
 startTime: 2021-12-04T21:45:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
