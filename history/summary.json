@@ -8,7 +8,7 @@
     "uptime": "99.49%",
     "uptimeDay": "70.82%",
     "uptimeWeek": "84.84%",
-    "uptimeMonth": "87.89%",
+    "uptimeMonth": "87.85%",
     "uptimeYear": "97.61%",
     "time": 511,
     "timeDay": 1409,
@@ -65,7 +65,7 @@
       "2026-07-29": 185,
       "2026-07-30": 172,
       "2026-07-31": 448,
-      "2026-08-01": 4
+      "2026-08-01": 22
     }
   },
   {
@@ -199,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2026-08-01": 270,
+      "2026-08-01": 288,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -622,15 +622,15 @@
     "url": "https://integration.ageg.ca/",
     "icon": "https://integration.ageg.ca/favicon.ico",
     "slug": "integration-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "51.51%",
-    "uptimeWeek": "56.78%",
-    "uptimeMonth": "75.52%",
+    "uptimeDay": "52.02%",
+    "uptimeWeek": "56.86%",
+    "uptimeMonth": "75.50%",
     "uptimeYear": "97.96%",
     "time": 455,
-    "timeDay": 347,
-    "timeWeek": 327,
+    "timeDay": 337,
+    "timeWeek": 326,
     "timeMonth": 302,
     "timeYear": 462,
     "dailyMinutesDown": {
@@ -651,7 +651,7 @@
       "2026-07-29": 290,
       "2026-07-30": 832,
       "2026-07-31": 697,
-      "2026-08-01": 13
+      "2026-08-01": 23
     }
   },
   {
@@ -659,15 +659,15 @@
     "url": "https://integs.ageg.ca/",
     "icon": "https://integs.ageg.ca/favicon.ico",
     "slug": "integs-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "51.57%",
-    "uptimeWeek": "56.86%",
-    "uptimeMonth": "75.52%",
+    "uptimeDay": "52.16%",
+    "uptimeWeek": "56.95%",
+    "uptimeMonth": "75.50%",
     "uptimeYear": "97.96%",
     "time": 396,
-    "timeDay": 332,
-    "timeWeek": 326,
+    "timeDay": 320,
+    "timeWeek": 325,
     "timeMonth": 302,
     "timeYear": 402,
     "dailyMinutesDown": {
@@ -688,7 +688,7 @@
       "2026-07-29": 288,
       "2026-07-30": 832,
       "2026-07-31": 696,
-      "2026-08-01": 15
+      "2026-08-01": 23
     }
   },
   {
@@ -696,15 +696,15 @@
     "url": "https://integ.ageg.ca/",
     "icon": "https://integ.ageg.ca/favicon.ico",
     "slug": "integ-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "51.63%",
-    "uptimeWeek": "56.95%",
-    "uptimeMonth": "75.61%",
+    "uptimeDay": "52.29%",
+    "uptimeWeek": "57.04%",
+    "uptimeMonth": "75.59%",
     "uptimeYear": "97.97%",
     "time": 389,
-    "timeDay": 325,
-    "timeWeek": 319,
+    "timeDay": 316,
+    "timeWeek": 318,
     "timeMonth": 299,
     "timeYear": 395,
     "dailyMinutesDown": {
@@ -725,7 +725,7 @@
       "2026-07-29": 287,
       "2026-07-30": 832,
       "2026-07-31": 696,
-      "2026-08-01": 16
+      "2026-08-01": 23
     }
   },
   {
@@ -812,7 +812,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-01": 276,
+      "2026-08-01": 293,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -1037,7 +1037,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-01": 276,
+      "2026-08-01": 293,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -1186,7 +1186,7 @@
     "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "98.28%",
-    "uptimeWeek": "88.23%",
+    "uptimeWeek": "88.39%",
     "uptimeMonth": "92.67%",
     "uptimeYear": "98.57%",
     "time": 189,
@@ -1460,9 +1460,9 @@
     "slug": "2-minutes-de-genie-staging",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "81.16%",
-    "uptimeWeek": "81.87%",
-    "uptimeMonth": "85.58%",
+    "uptimeDay": "82.26%",
+    "uptimeWeek": "82.03%",
+    "uptimeMonth": "85.62%",
     "uptimeYear": "98.62%",
     "time": 198,
     "timeDay": 368,
@@ -1525,7 +1525,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 279,
+      "2026-08-01": 295,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -1909,7 +1909,7 @@
     "timeMonth": 449,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2026-08-01": 279,
+      "2026-08-01": 295,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -2282,7 +2282,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "securite-ude-s-redirect",
     "status": "down",
-    "uptime": "57.60%",
+    "uptime": "57.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2293,7 +2293,7 @@
     "timeMonth": 787,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2026-08-01": 280,
+      "2026-08-01": 295,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
