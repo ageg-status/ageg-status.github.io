@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-08-14": 1248,
+      "2026-08-14": 1275,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -624,16 +624,16 @@
     "url": "https://integration.ageg.ca/",
     "icon": "https://integration.ageg.ca/favicon.ico",
     "slug": "integration-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "49.98%",
-    "uptimeWeek": "62.10%",
-    "uptimeMonth": "80.09%",
+    "uptimeDay": "48.65%",
+    "uptimeWeek": "62.13%",
+    "uptimeMonth": "80.05%",
     "uptimeYear": "98.34%",
     "time": 457,
-    "timeDay": 339,
-    "timeWeek": 324,
-    "timeMonth": 320,
+    "timeDay": 331,
+    "timeWeek": 321,
+    "timeMonth": 319,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2026-07-29": 185,
@@ -652,7 +652,7 @@
       "2026-08-11": 451,
       "2026-08-12": 642,
       "2026-08-13": 627,
-      "2026-08-14": 653
+      "2026-08-14": 673
     }
   },
   {
@@ -660,16 +660,16 @@
     "url": "https://integs.ageg.ca/",
     "icon": "https://integs.ageg.ca/favicon.ico",
     "slug": "integs-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "50.05%",
-    "uptimeWeek": "62.95%",
-    "uptimeMonth": "80.38%",
-    "uptimeYear": "98.37%",
+    "uptimeDay": "48.80%",
+    "uptimeWeek": "63.00%",
+    "uptimeMonth": "80.34%",
+    "uptimeYear": "98.36%",
     "time": 399,
-    "timeDay": 339,
-    "timeWeek": 329,
-    "timeMonth": 318,
+    "timeDay": 331,
+    "timeWeek": 325,
+    "timeMonth": 317,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2026-07-29": 271,
@@ -688,7 +688,7 @@
       "2026-08-11": 449,
       "2026-08-12": 591,
       "2026-08-13": 627,
-      "2026-08-14": 654
+      "2026-08-14": 673
     }
   },
   {
@@ -696,15 +696,15 @@
     "url": "https://integ.ageg.ca/",
     "icon": "https://integ.ageg.ca/favicon.ico",
     "slug": "integ-redirect",
-    "status": "degraded",
-    "uptime": "99.66%",
-    "uptimeDay": "56.92%",
-    "uptimeWeek": "63.48%",
-    "uptimeMonth": "80.59%",
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "55.75%",
+    "uptimeWeek": "63.55%",
+    "uptimeMonth": "80.55%",
     "uptimeYear": "98.38%",
     "time": 391,
-    "timeDay": 332,
-    "timeWeek": 321,
+    "timeDay": 324,
+    "timeWeek": 317,
     "timeMonth": 313,
     "timeYear": 398,
     "dailyMinutesDown": {
@@ -724,7 +724,7 @@
       "2026-08-11": 445,
       "2026-08-12": 591,
       "2026-08-13": 624,
-      "2026-08-14": 554
+      "2026-08-14": 571
     }
   },
   {
@@ -811,7 +811,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-14": 1254,
+      "2026-08-14": 1280,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -980,7 +980,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 224,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-25": 42,
       "2025-11-26": 79,
@@ -1049,7 +1049,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-14": 1255,
+      "2026-08-14": 1281,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -1218,7 +1218,7 @@
     "timeDay": 340,
     "timeWeek": 497,
     "timeMonth": 405,
-    "timeYear": 201,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2026-06-20": 73,
       "2026-06-22": 258,
@@ -1490,7 +1490,7 @@
     "time": 209,
     "timeDay": 374,
     "timeWeek": 417,
-    "timeMonth": 397,
+    "timeMonth": 396,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2026-07-23": 187,
@@ -1534,7 +1534,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-14": 1258,
+      "2026-08-14": 1284,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -1918,7 +1918,7 @@
     "timeMonth": 571,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2026-08-14": 1258,
+      "2026-08-14": 1284,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -2302,7 +2302,7 @@
     "timeMonth": 970,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2026-08-14": 1259,
+      "2026-08-14": 1284,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
