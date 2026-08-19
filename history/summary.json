@@ -8,7 +8,7 @@
     "uptime": "99.59%",
     "uptimeDay": "85.42%",
     "uptimeWeek": "86.81%",
-    "uptimeMonth": "84.44%",
+    "uptimeMonth": "84.40%",
     "uptimeYear": "98.08%",
     "time": 533,
     "timeDay": 817,
@@ -67,7 +67,7 @@
       "2026-08-16": 169,
       "2026-08-17": 146,
       "2026-08-18": 167,
-      "2026-08-19": 48
+      "2026-08-19": 66
     }
   },
   {
@@ -201,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-08-19": 237,
+      "2026-08-19": 255,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -625,15 +625,15 @@
     "url": "https://integration.ageg.ca/",
     "icon": "https://integration.ageg.ca/favicon.ico",
     "slug": "integration-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "61.71%",
+    "uptimeDay": "62.30%",
     "uptimeWeek": "61.32%",
-    "uptimeMonth": "86.62%",
+    "uptimeMonth": "86.60%",
     "uptimeYear": "98.88%",
     "time": 455,
-    "timeDay": 314,
-    "timeWeek": 325,
+    "timeDay": 308,
+    "timeWeek": 324,
     "timeMonth": 323,
     "timeYear": 464,
     "dailyMinutesDown": {
@@ -648,7 +648,7 @@
       "2026-08-16": 423,
       "2026-08-17": 505,
       "2026-08-18": 520,
-      "2026-08-19": 119
+      "2026-08-19": 128
     }
   },
   {
@@ -656,15 +656,15 @@
     "url": "https://integs.ageg.ca/",
     "icon": "https://integs.ageg.ca/favicon.ico",
     "slug": "integs-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "61.87%",
-    "uptimeWeek": "61.95%",
-    "uptimeMonth": "86.84%",
+    "uptimeDay": "62.55%",
+    "uptimeWeek": "61.97%",
+    "uptimeMonth": "86.82%",
     "uptimeYear": "98.90%",
     "time": 399,
-    "timeDay": 316,
-    "timeWeek": 328,
+    "timeDay": 310,
+    "timeWeek": 327,
     "timeMonth": 323,
     "timeYear": 406,
     "dailyMinutesDown": {
@@ -679,7 +679,7 @@
       "2026-08-16": 445,
       "2026-08-17": 479,
       "2026-08-18": 517,
-      "2026-08-19": 120
+      "2026-08-19": 128
     }
   },
   {
@@ -687,16 +687,16 @@
     "url": "https://integ.ageg.ca/",
     "icon": "https://integ.ageg.ca/favicon.ico",
     "slug": "integ-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "62.02%",
-    "uptimeWeek": "63.06%",
-    "uptimeMonth": "86.99%",
-    "uptimeYear": "98.92%",
+    "uptimeDay": "62.78%",
+    "uptimeWeek": "63.11%",
+    "uptimeMonth": "86.97%",
+    "uptimeYear": "98.91%",
     "time": 391,
-    "timeDay": 314,
-    "timeWeek": 322,
-    "timeMonth": 318,
+    "timeDay": 308,
+    "timeWeek": 321,
+    "timeMonth": 317,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2026-08-08": 360,
@@ -710,7 +710,7 @@
       "2026-08-16": 415,
       "2026-08-17": 500,
       "2026-08-18": 516,
-      "2026-08-19": 121
+      "2026-08-19": 128
     }
   },
   {
@@ -723,7 +723,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.32%",
+    "uptimeYear": "56.31%",
     "time": 252,
     "timeDay": 0,
     "timeWeek": 0,
@@ -797,7 +797,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-19": 243,
+      "2026-08-19": 261,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -966,7 +966,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.32%",
+    "uptimeYear": "56.31%",
     "time": 224,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1040,7 +1040,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-19": 243,
+      "2026-08-19": 262,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1357,7 +1357,7 @@
     "slug": "2-minutes-de-genie-prod",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "84.15%",
+    "uptimeDay": "84.66%",
     "uptimeWeek": "84.67%",
     "uptimeMonth": "87.56%",
     "uptimeYear": "98.96%",
@@ -1463,7 +1463,7 @@
     "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "89.58%",
-    "uptimeWeek": "81.39%",
+    "uptimeWeek": "81.54%",
     "uptimeMonth": "89.00%",
     "uptimeYear": "99.08%",
     "time": 214,
@@ -1510,7 +1510,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-19": 246,
+      "2026-08-19": 264,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -1894,7 +1894,7 @@
     "timeMonth": 564,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2026-08-19": 246,
+      "2026-08-19": 265,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -2278,7 +2278,7 @@
     "timeMonth": 977,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2026-08-19": 247,
+      "2026-08-19": 265,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
