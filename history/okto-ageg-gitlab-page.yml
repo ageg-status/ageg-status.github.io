@@ -1,7 +1,7 @@
 url: https://okto-ageg.gitlab.io/
-status: up
+status: degraded
 code: 200
-responseTime: 376
-lastUpdated: 2026-08-19T03:50:51.364Z
+responseTime: 400
+lastUpdated: 2026-08-19T04:37:10.133Z
 startTime: 2022-08-27T16:26:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
