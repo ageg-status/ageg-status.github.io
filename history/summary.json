@@ -199,7 +199,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-08-22": 833,
+      "2026-08-22": 849,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -624,14 +624,14 @@
     "url": "https://integration.ageg.ca/",
     "icon": "https://integration.ageg.ca/favicon.ico",
     "slug": "integration-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "69.11%",
-    "uptimeWeek": "65.73%",
-    "uptimeMonth": "90.17%",
+    "uptimeDay": "68.55%",
+    "uptimeWeek": "65.80%",
+    "uptimeMonth": "90.16%",
     "uptimeYear": "99.18%",
     "time": 453,
-    "timeDay": 331,
+    "timeDay": 326,
     "timeWeek": 331,
     "timeMonth": 327,
     "timeYear": 463,
@@ -644,7 +644,7 @@
       "2026-08-19": 581,
       "2026-08-20": 485,
       "2026-08-21": 313,
-      "2026-08-22": 356
+      "2026-08-22": 364
     }
   },
   {
@@ -652,15 +652,15 @@
     "url": "https://integs.ageg.ca/",
     "icon": "https://integs.ageg.ca/favicon.ico",
     "slug": "integs-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "69.20%",
-    "uptimeWeek": "65.44%",
-    "uptimeMonth": "90.11%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "68.72%",
+    "uptimeWeek": "65.52%",
+    "uptimeMonth": "90.10%",
+    "uptimeYear": "99.17%",
     "time": 401,
-    "timeDay": 329,
-    "timeWeek": 332,
+    "timeDay": 323,
+    "timeWeek": 331,
     "timeMonth": 326,
     "timeYear": 406,
     "dailyMinutesDown": {
@@ -672,7 +672,7 @@
       "2026-08-19": 578,
       "2026-08-20": 528,
       "2026-08-21": 310,
-      "2026-08-22": 353
+      "2026-08-22": 360
     }
   },
   {
@@ -680,15 +680,15 @@
     "url": "https://integ.ageg.ca/",
     "icon": "https://integ.ageg.ca/favicon.ico",
     "slug": "integ-redirect",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "69.30%",
-    "uptimeWeek": "65.81%",
-    "uptimeMonth": "90.43%",
+    "uptimeDay": "68.92%",
+    "uptimeWeek": "65.91%",
+    "uptimeMonth": "90.41%",
     "uptimeYear": "99.20%",
     "time": 394,
-    "timeDay": 325,
-    "timeWeek": 328,
+    "timeDay": 318,
+    "timeWeek": 327,
     "timeMonth": 321,
     "timeYear": 398,
     "dailyMinutesDown": {
@@ -700,7 +700,7 @@
       "2026-08-19": 575,
       "2026-08-20": 508,
       "2026-08-21": 308,
-      "2026-08-22": 352
+      "2026-08-22": 358
     }
   },
   {
@@ -787,7 +787,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-22": 838,
+      "2026-08-22": 854,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1033,7 +1033,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-22": 839,
+      "2026-08-22": 855,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1200,15 +1200,15 @@
     "url": "https://okto-ageg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-gitlab-page",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "93.54%",
-    "uptimeWeek": "86.32%",
-    "uptimeMonth": "89.63%",
+    "uptimeDay": "93.18%",
+    "uptimeWeek": "86.27%",
+    "uptimeMonth": "89.62%",
     "uptimeYear": "98.83%",
     "time": 207,
-    "timeDay": 921,
-    "timeWeek": 438,
+    "timeDay": 883,
+    "timeWeek": 436,
     "timeMonth": 412,
     "timeYear": 210,
     "dailyMinutesDown": {
@@ -1259,7 +1259,7 @@
       "2026-08-19": 307,
       "2026-08-20": 141,
       "2026-08-21": 46,
-      "2026-08-22": 48
+      "2026-08-22": 53
     }
   },
   {
@@ -1267,14 +1267,14 @@
     "url": "https://okto-ageg-staging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-staging",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "94.08%",
+    "uptimeDay": "94.47%",
+    "uptimeWeek": "95.03%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "98.90%",
     "time": 201,
-    "timeDay": 373,
+    "timeDay": 366,
     "timeWeek": 348,
     "timeMonth": 373,
     "timeYear": 202,
@@ -1339,7 +1339,7 @@
       "2026-08-19": 112,
       "2026-08-20": 33,
       "2026-08-21": 20,
-      "2026-08-22": 55
+      "2026-08-22": 60
     }
   },
   {
@@ -1347,15 +1347,15 @@
     "url": "https://2mdg.ageg.ca/",
     "icon": "https://2mdg.ageg.ca/images/logo-2mg.png",
     "slug": "2-minutes-de-genie-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "88.35%",
-    "uptimeWeek": "84.66%",
-    "uptimeMonth": "90.51%",
+    "uptimeDay": "88.04%",
+    "uptimeWeek": "84.70%",
+    "uptimeMonth": "90.50%",
     "uptimeYear": "99.21%",
     "time": 219,
-    "timeDay": 361,
-    "timeWeek": 366,
+    "timeDay": 356,
+    "timeWeek": 365,
     "timeMonth": 390,
     "timeYear": 222,
     "dailyMinutesDown": {
@@ -1376,7 +1376,7 @@
       "2026-08-19": 438,
       "2026-08-20": 329,
       "2026-08-21": 145,
-      "2026-08-22": 102
+      "2026-08-22": 107
     }
   },
   {
@@ -1384,15 +1384,15 @@
     "url": "https://2mdg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-gitlab-page",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "93.60%",
-    "uptimeWeek": "92.11%",
-    "uptimeMonth": "91.36%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "91.35%",
     "uptimeYear": "99.18%",
     "time": 270,
-    "timeDay": 337,
-    "timeWeek": 378,
+    "timeDay": 331,
+    "timeWeek": 377,
     "timeMonth": 349,
     "timeYear": 271,
     "dailyMinutesDown": {
@@ -1430,7 +1430,7 @@
       "2026-08-19": 174,
       "2026-08-20": 181,
       "2026-08-21": 75,
-      "2026-08-22": 36
+      "2026-08-22": 40
     }
   },
   {
@@ -1438,14 +1438,14 @@
     "url": "https://2mdgstaging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "86.80%",
-    "uptimeWeek": "85.04%",
-    "uptimeMonth": "90.78%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "85.08%",
+    "uptimeMonth": "90.77%",
     "uptimeYear": "99.23%",
     "time": 216,
-    "timeDay": 371,
+    "timeDay": 369,
     "timeWeek": 372,
     "timeMonth": 395,
     "timeYear": 218,
@@ -1465,7 +1465,7 @@
       "2026-08-19": 354,
       "2026-08-20": 302,
       "2026-08-21": 111,
-      "2026-08-22": 134
+      "2026-08-22": 138
     }
   },
   {
@@ -1485,7 +1485,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 841,
+      "2026-08-22": 857,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -1869,7 +1869,7 @@
     "timeMonth": 567,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2026-08-22": 841,
+      "2026-08-22": 857,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -2253,7 +2253,7 @@
     "timeMonth": 927,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2026-08-22": 842,
+      "2026-08-22": 857,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
