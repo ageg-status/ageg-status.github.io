@@ -6,7 +6,7 @@
     "slug": "ude-s-website-prod",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "90.34%",
+    "uptimeDay": "91.51%",
     "uptimeWeek": "89.07%",
     "uptimeMonth": "84.00%",
     "uptimeYear": "98.09%",
@@ -77,7 +77,7 @@
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.28%",
     "time": 332,
-    "timeDay": 392,
+    "timeDay": 393,
     "timeWeek": 364,
     "timeMonth": 356,
     "timeYear": 332,
@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2026-08-23": 1050,
+      "2026-08-23": 1067,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -624,13 +624,13 @@
     "slug": "integration-redirect",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "63.61%",
-    "uptimeWeek": "65.39%",
-    "uptimeMonth": "90.83%",
-    "uptimeYear": "99.24%",
+    "uptimeDay": "62.54%",
+    "uptimeWeek": "65.29%",
+    "uptimeMonth": "90.79%",
+    "uptimeYear": "99.23%",
     "time": 454,
-    "timeDay": 346,
-    "timeWeek": 333,
+    "timeDay": 343,
+    "timeWeek": 334,
     "timeMonth": 329,
     "timeYear": 463,
     "dailyMinutesDown": {
@@ -642,7 +642,7 @@
       "2026-08-20": 485,
       "2026-08-21": 313,
       "2026-08-22": 575,
-      "2026-08-23": 385
+      "2026-08-23": 402
     }
   },
   {
@@ -652,13 +652,13 @@
     "slug": "integs-redirect",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "63.70%",
-    "uptimeWeek": "65.35%",
-    "uptimeMonth": "90.77%",
+    "uptimeDay": "62.71%",
+    "uptimeWeek": "65.24%",
+    "uptimeMonth": "90.73%",
     "uptimeYear": "99.23%",
     "time": 399,
-    "timeDay": 339,
-    "timeWeek": 334,
+    "timeDay": 336,
+    "timeWeek": 335,
     "timeMonth": 329,
     "timeYear": 406,
     "dailyMinutesDown": {
@@ -670,7 +670,7 @@
       "2026-08-20": 528,
       "2026-08-21": 310,
       "2026-08-22": 569,
-      "2026-08-23": 385
+      "2026-08-23": 402
     }
   },
   {
@@ -680,12 +680,12 @@
     "slug": "integ-redirect",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "66.61%",
-    "uptimeWeek": "65.88%",
-    "uptimeMonth": "90.95%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "65.68%",
+    "uptimeWeek": "65.75%",
+    "uptimeMonth": "90.91%",
+    "uptimeYear": "99.24%",
     "time": 391,
-    "timeDay": 329,
+    "timeDay": 324,
     "timeWeek": 329,
     "timeMonth": 323,
     "timeYear": 399,
@@ -698,7 +698,7 @@
       "2026-08-20": 508,
       "2026-08-21": 308,
       "2026-08-22": 562,
-      "2026-08-23": 342
+      "2026-08-23": 359
     }
   },
   {
@@ -785,7 +785,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-23": 1055,
+      "2026-08-23": 1072,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -1032,7 +1032,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-08-23": 1056,
+      "2026-08-23": 1073,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -1200,11 +1200,11 @@
     "url": "https://okto-ageg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-gitlab-page",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "91.62%",
-    "uptimeWeek": "85.04%",
-    "uptimeMonth": "89.34%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "84.98%",
+    "uptimeMonth": "89.33%",
     "uptimeYear": "98.91%",
     "time": 209,
     "timeDay": 360,
@@ -1253,7 +1253,7 @@
       "2026-08-20": 141,
       "2026-08-21": 46,
       "2026-08-22": 117,
-      "2026-08-23": 99
+      "2026-08-23": 105
     }
   },
   {
@@ -1339,11 +1339,11 @@
     "url": "https://2mdg.ageg.ca/",
     "icon": "https://2mdg.ageg.ca/images/logo-2mg.png",
     "slug": "2-minutes-de-genie-prod",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "85.31%",
-    "uptimeWeek": "84.35%",
-    "uptimeMonth": "91.42%",
+    "uptimeDay": "84.95%",
+    "uptimeWeek": "84.30%",
+    "uptimeMonth": "91.41%",
     "uptimeYear": "99.28%",
     "time": 221,
     "timeDay": 377,
@@ -1367,7 +1367,7 @@
       "2026-08-20": 329,
       "2026-08-21": 145,
       "2026-08-22": 255,
-      "2026-08-23": 109
+      "2026-08-23": 115
     }
   },
   {
@@ -1427,14 +1427,14 @@
     "url": "https://2mdgstaging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "85.02%",
-    "uptimeWeek": "84.41%",
-    "uptimeMonth": "91.13%",
+    "uptimeDay": "84.69%",
+    "uptimeWeek": "84.36%",
+    "uptimeMonth": "91.12%",
     "uptimeYear": "99.26%",
     "time": 218,
-    "timeDay": 369,
+    "timeDay": 370,
     "timeWeek": 372,
     "timeMonth": 395,
     "timeYear": 219,
@@ -1453,7 +1453,7 @@
       "2026-08-20": 302,
       "2026-08-21": 111,
       "2026-08-22": 273,
-      "2026-08-23": 148
+      "2026-08-23": 153
     }
   },
   {
@@ -1473,7 +1473,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-23": 1058,
+      "2026-08-23": 1075,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -1857,7 +1857,7 @@
     "timeMonth": 562,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2026-08-23": 1058,
+      "2026-08-23": 1075,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -2241,7 +2241,7 @@
     "timeMonth": 921,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2026-08-23": 1058,
+      "2026-08-23": 1075,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -2615,12 +2615,12 @@
     "slug": "formulaire-activites-securite-ude-s-prod",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.21%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "96.29%",
     "uptimeYear": "98.22%",
     "time": 328,
-    "timeDay": 808,
+    "timeDay": 824,
     "timeWeek": 835,
     "timeMonth": 953,
     "timeYear": 333,
@@ -2686,7 +2686,7 @@
     "slug": "formulaire-activites-securite-ude-s-redirect",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.23%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "97.80%",
