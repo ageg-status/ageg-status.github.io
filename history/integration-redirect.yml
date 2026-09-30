@@ -1,7 +1,7 @@
 url: https://integration.ageg.ca/
-status: degraded
+status: up
 code: 200
-responseTime: 433
-lastUpdated: 2026-09-30T00:09:48.757Z
+responseTime: 117
+lastUpdated: 2026-09-30T01:24:33.679Z
 startTime: 2021-12-05T03:04:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
