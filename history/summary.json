@@ -4,16 +4,16 @@
     "url": "https://www.usherbrooke.ca/",
     "icon": "https://www.usherbrooke.ca/favicon.ico",
     "slug": "ude-s-website-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "95.65%",
+    "uptimeDay": "96.80%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "95.55%",
     "uptimeYear": "97.88%",
     "time": 565,
-    "timeDay": 576,
+    "timeDay": 581,
     "timeWeek": 579,
-    "timeMonth": 735,
+    "timeMonth": 734,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2026-07-17": 211,
@@ -69,7 +69,7 @@
       "2026-09-09": 147,
       "2026-09-12": 180,
       "2026-09-15": 168,
-      "2026-10-01": 5
+      "2026-10-01": 46
     }
   },
   {
@@ -203,7 +203,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-10-01": 428,
+      "2026-10-01": 473,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -636,10 +636,10 @@
     "slug": "integration-redirect",
     "status": "degraded",
     "uptime": "99.13%",
-    "uptimeDay": "70.44%",
+    "uptimeDay": "67.33%",
     "uptimeWeek": "64.13%",
-    "uptimeMonth": "59.12%",
-    "uptimeYear": "95.82%",
+    "uptimeMonth": "59.02%",
+    "uptimeYear": "95.81%",
     "time": 474,
     "timeDay": 368,
     "timeWeek": 342,
@@ -683,7 +683,7 @@
       "2026-09-28": 845,
       "2026-09-29": 435,
       "2026-09-30": 476,
-      "2026-10-01": 35
+      "2026-10-01": 80
     }
   },
   {
@@ -693,15 +693,15 @@
     "slug": "integs-redirect",
     "status": "degraded",
     "uptime": "99.12%",
-    "uptimeDay": "70.39%",
+    "uptimeDay": "67.29%",
     "uptimeWeek": "64.16%",
-    "uptimeMonth": "59.48%",
-    "uptimeYear": "95.77%",
+    "uptimeMonth": "59.38%",
+    "uptimeYear": "95.76%",
     "time": 416,
     "timeDay": 416,
     "timeWeek": 346,
     "timeMonth": 343,
-    "timeYear": 421,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2026-08-25": 310,
       "2026-08-26": 551,
@@ -740,7 +740,7 @@
       "2026-09-28": 845,
       "2026-09-29": 435,
       "2026-09-30": 475,
-      "2026-10-01": 36
+      "2026-10-01": 81
     }
   },
   {
@@ -750,9 +750,9 @@
     "slug": "integ-redirect",
     "status": "degraded",
     "uptime": "99.14%",
-    "uptimeDay": "70.34%",
+    "uptimeDay": "67.25%",
     "uptimeWeek": "64.20%",
-    "uptimeMonth": "59.20%",
+    "uptimeMonth": "59.10%",
     "uptimeYear": "95.87%",
     "time": 409,
     "timeDay": 358,
@@ -796,7 +796,7 @@
       "2026-09-28": 845,
       "2026-09-29": 435,
       "2026-09-30": 474,
-      "2026-10-01": 37
+      "2026-10-01": 82
     }
   },
   {
@@ -809,7 +809,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.50%",
+    "uptimeYear": "44.49%",
     "time": 253,
     "timeDay": 0,
     "timeWeek": 0,
@@ -883,7 +883,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-10-01": 435,
+      "2026-10-01": 479,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -1095,7 +1095,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "44.50%",
+    "uptimeYear": "44.49%",
     "time": 224,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1169,7 +1169,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-10-01": 436,
+      "2026-10-01": 480,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -1376,19 +1376,19 @@
     "url": "https://okto-ageg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-gitlab-page",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.29%",
-    "uptimeDay": "80.53%",
-    "uptimeWeek": "60.94%",
-    "uptimeMonth": "71.31%",
+    "uptimeDay": "79.61%",
+    "uptimeWeek": "61.25%",
+    "uptimeMonth": "71.28%",
     "uptimeYear": "97.11%",
     "time": 230,
-    "timeDay": 330,
-    "timeWeek": 393,
-    "timeMonth": 395,
-    "timeYear": 232,
+    "timeDay": 354,
+    "timeWeek": 395,
+    "timeMonth": 396,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-08-21": 46,
+      "2026-08-21": 18,
       "2026-08-22": 117,
       "2026-08-23": 105,
       "2026-08-24": 140,
@@ -1428,7 +1428,8 @@
       "2026-09-27": 238,
       "2026-09-28": 1113,
       "2026-09-29": 433,
-      "2026-09-30": 365
+      "2026-09-30": 365,
+      "2026-10-01": 13
     }
   },
   {
@@ -1436,19 +1437,19 @@
     "url": "https://okto-ageg-staging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "okto-ageg-staging",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "85.38%",
-    "uptimeMonth": "79.56%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "79.53%",
     "uptimeYear": "97.79%",
     "time": 220,
-    "timeDay": 376,
-    "timeWeek": 445,
-    "timeMonth": 383,
+    "timeDay": 398,
+    "timeWeek": 446,
+    "timeMonth": 384,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-08-07": 56,
+      "2026-08-07": 38,
       "2026-08-09": 17,
       "2026-08-10": 86,
       "2026-08-11": 90,
@@ -1499,7 +1500,8 @@
       "2026-09-27": 129,
       "2026-09-28": 318,
       "2026-09-30": 110,
-      "2026-09-29": 96
+      "2026-09-29": 96,
+      "2026-10-01": 14
     }
   },
   {
@@ -1510,7 +1512,7 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "80.54%",
-    "uptimeWeek": "80.12%",
+    "uptimeWeek": "80.56%",
     "uptimeMonth": "83.61%",
     "uptimeYear": "97.91%",
     "time": 239,
@@ -1624,11 +1626,11 @@
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
     "status": "degraded",
-    "uptime": "99.25%",
-    "uptimeDay": "66.17%",
+    "uptime": "99.24%",
+    "uptimeDay": "63.14%",
     "uptimeWeek": "63.69%",
-    "uptimeMonth": "65.83%",
-    "uptimeYear": "96.36%",
+    "uptimeMonth": "65.73%",
+    "uptimeYear": "96.35%",
     "time": 237,
     "timeDay": 1210,
     "timeWeek": 487,
@@ -1672,7 +1674,7 @@
       "2026-09-28": 752,
       "2026-09-29": 528,
       "2026-09-30": 595,
-      "2026-10-01": 19
+      "2026-10-01": 63
     }
   },
   {
@@ -1692,7 +1694,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-01": 442,
+      "2026-10-01": 485,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -2076,7 +2078,7 @@
     "timeMonth": 329,
     "timeYear": 360,
     "dailyMinutesDown": {
-      "2026-10-01": 442,
+      "2026-10-01": 486,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -2460,7 +2462,7 @@
     "timeMonth": 632,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2026-10-01": 443,
+      "2026-10-01": 486,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -2832,16 +2834,16 @@
     "url": "https://www.usherbrooke.ca/smsp/service-a-la-clientele/activites-sur-les-campus",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "formulaire-activites-securite-ude-s-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "98.13%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "98.12%",
     "time": 362,
-    "timeDay": 489,
-    "timeWeek": 494,
-    "timeMonth": 495,
+    "timeDay": 536,
+    "timeWeek": 500,
+    "timeMonth": 497,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2026-06-07": 520,
@@ -2900,7 +2902,7 @@
       "2026-09-10": 89,
       "2026-09-09": 144,
       "2026-09-12": 161,
-      "2026-10-01": 19
+      "2026-10-01": 46
     }
   },
   {
@@ -2908,16 +2910,16 @@
     "url": "https://www.usherbrooke.ca/immeubles/la-securite/formulaires/",
     "icon": "https://icons.duckduckgo.com/ip3/www.usherbrooke.ca.ico",
     "slug": "formulaire-activites-securite-ude-s-redirect",
-    "status": "down",
+    "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "98.12%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "98.11%",
     "time": 492,
-    "timeDay": 750,
-    "timeWeek": 672,
-    "timeMonth": 805,
+    "timeDay": 784,
+    "timeWeek": 679,
+    "timeMonth": 806,
     "timeYear": 499,
     "dailyMinutesDown": {
       "2026-06-04": 129,
@@ -2979,7 +2981,7 @@
       "2026-09-10": 84,
       "2026-09-09": 144,
       "2026-09-12": 156,
-      "2026-10-01": 19
+      "2026-10-01": 45
     }
   }
 ]
