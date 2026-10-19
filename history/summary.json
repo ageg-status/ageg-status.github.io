@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2026-10-19": 64,
+      "2026-10-19": 108,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -646,12 +646,12 @@
     "slug": "integration-redirect",
     "status": "degraded",
     "uptime": "98.95%",
-    "uptimeDay": "48.69%",
-    "uptimeWeek": "46.43%",
-    "uptimeMonth": "56.42%",
-    "uptimeYear": "94.88%",
+    "uptimeDay": "48.59%",
+    "uptimeWeek": "46.00%",
+    "uptimeMonth": "56.32%",
+    "uptimeYear": "94.87%",
     "time": 485,
-    "timeDay": 457,
+    "timeDay": 443,
     "timeWeek": 444,
     "timeMonth": 385,
     "timeYear": 491,
@@ -699,7 +699,7 @@
       "2026-10-16": 196,
       "2026-10-17": 871,
       "2026-10-18": 779,
-      "2026-10-19": 9
+      "2026-10-19": 53
     }
   },
   {
@@ -709,9 +709,9 @@
     "slug": "integs-redirect",
     "status": "degraded",
     "uptime": "98.94%",
-    "uptimeDay": "41.17%",
-    "uptimeWeek": "45.39%",
-    "uptimeMonth": "56.53%",
+    "uptimeDay": "41.14%",
+    "uptimeWeek": "44.95%",
+    "uptimeMonth": "56.43%",
     "uptimeYear": "94.83%",
     "time": 425,
     "timeDay": 422,
@@ -762,7 +762,7 @@
       "2026-10-16": 196,
       "2026-10-17": 869,
       "2026-10-18": 887,
-      "2026-10-19": 10
+      "2026-10-19": 54
     }
   },
   {
@@ -773,12 +773,12 @@
     "status": "degraded",
     "uptime": "98.93%",
     "uptimeDay": "48.71%",
-    "uptimeWeek": "43.45%",
-    "uptimeMonth": "55.53%",
-    "uptimeYear": "94.80%",
+    "uptimeWeek": "43.01%",
+    "uptimeMonth": "55.43%",
+    "uptimeYear": "94.79%",
     "time": 418,
     "timeDay": 433,
-    "timeWeek": 441,
+    "timeWeek": 438,
     "timeMonth": 379,
     "timeYear": 424,
     "dailyMinutesDown": {
@@ -825,7 +825,7 @@
       "2026-10-16": 261,
       "2026-10-17": 888,
       "2026-10-18": 778,
-      "2026-10-19": 11
+      "2026-10-19": 55
     }
   },
   {
@@ -838,7 +838,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.64%",
+    "uptimeYear": "39.63%",
     "time": 255,
     "timeDay": 0,
     "timeWeek": 0,
@@ -912,7 +912,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-10-19": 70,
+      "2026-10-19": 113,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -1142,7 +1142,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.64%",
+    "uptimeYear": "39.63%",
     "time": 225,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1216,7 +1216,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-10-19": 70,
+      "2026-10-19": 114,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -1582,16 +1582,16 @@
     "url": "https://2mdg.ageg.ca/",
     "icon": "https://2mdg.ageg.ca/images/logo-2mg.png",
     "slug": "2-minutes-de-genie-prod",
-    "status": "degraded",
-    "uptime": "99.44%",
-    "uptimeDay": "80.89%",
-    "uptimeWeek": "80.57%",
-    "uptimeMonth": "82.65%",
-    "uptimeYear": "97.25%",
+    "status": "up",
+    "uptime": "99.43%",
+    "uptimeDay": "81.81%",
+    "uptimeWeek": "80.25%",
+    "uptimeMonth": "82.57%",
+    "uptimeYear": "97.24%",
     "time": 246,
-    "timeDay": 367,
-    "timeWeek": 359,
-    "timeMonth": 353,
+    "timeDay": 353,
+    "timeWeek": 357,
+    "timeMonth": 352,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2026-08-23": 114,
@@ -1644,7 +1644,7 @@
       "2026-10-16": 113,
       "2026-10-17": 385,
       "2026-10-18": 265,
-      "2026-10-19": 13
+      "2026-10-19": 44
     }
   },
   {
@@ -1652,19 +1652,19 @@
     "url": "https://2mdg.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-gitlab-page",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "81.79%",
-    "uptimeWeek": "72.30%",
-    "uptimeMonth": "87.02%",
+    "uptimeDay": "83.99%",
+    "uptimeWeek": "72.19%",
+    "uptimeMonth": "86.99%",
     "uptimeYear": "98.03%",
     "time": 279,
-    "timeDay": 328,
-    "timeWeek": 365,
+    "timeDay": 340,
+    "timeWeek": 362,
     "timeMonth": 351,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2026-08-16": 120,
+      "2026-08-16": 101,
       "2026-08-17": 85,
       "2026-08-18": 47,
       "2026-08-19": 174,
@@ -1711,7 +1711,8 @@
       "2026-10-15": 429,
       "2026-10-16": 113,
       "2026-10-17": 499,
-      "2026-10-18": 265
+      "2026-10-18": 265,
+      "2026-10-19": 14
     }
   },
   {
@@ -1719,16 +1720,16 @@
     "url": "https://2mdgstaging.gitlab.io/",
     "icon": "https://about.gitlab.com/ico/favicon.ico",
     "slug": "2-minutes-de-genie-staging",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "38.28%",
-    "uptimeWeek": "54.67%",
-    "uptimeMonth": "62.59%",
+    "uptimeDay": "39.27%",
+    "uptimeWeek": "54.39%",
+    "uptimeMonth": "62.52%",
     "uptimeYear": "95.67%",
     "time": 247,
-    "timeDay": 393,
-    "timeWeek": 404,
-    "timeMonth": 426,
+    "timeDay": 392,
+    "timeWeek": 403,
+    "timeMonth": 425,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2026-09-05": 606,
@@ -1774,7 +1775,7 @@
       "2026-10-16": 561,
       "2026-10-17": 455,
       "2026-10-18": 878,
-      "2026-10-19": 13
+      "2026-10-19": 44
     }
   },
   {
@@ -1794,7 +1795,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-19": 73,
+      "2026-10-19": 118,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -2178,7 +2179,7 @@
     "timeMonth": 300,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2026-10-19": 73,
+      "2026-10-19": 118,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
@@ -2562,7 +2563,7 @@
     "timeMonth": 558,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2026-10-19": 73,
+      "2026-10-19": 118,
       "2026-10-18": 1440,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
