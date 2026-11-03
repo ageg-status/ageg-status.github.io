@@ -195,7 +195,7 @@
     "icon": "https://vote.ageg.ca/tmp/assets/c35a266c/favicon.ico",
     "slug": "vote-prod",
     "status": "down",
-    "uptime": "68.84%",
+    "uptime": "68.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -206,7 +206,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2026-11-03": 175,
+      "2026-11-03": 256,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -650,14 +650,14 @@
     "status": "degraded",
     "uptime": "98.91%",
     "uptimeDay": "45.73%",
-    "uptimeWeek": "51.18%",
-    "uptimeMonth": "52.54%",
-    "uptimeYear": "94.64%",
+    "uptimeWeek": "50.38%",
+    "uptimeMonth": "52.36%",
+    "uptimeYear": "94.63%",
     "time": 489,
     "timeDay": 424,
     "timeWeek": 404,
     "timeMonth": 391,
-    "timeYear": 500,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2026-09-21": 724,
       "2026-09-22": 941,
@@ -702,7 +702,7 @@
       "2026-10-31": 1032,
       "2026-11-01": 872,
       "2026-11-02": 691,
-      "2026-11-03": 122
+      "2026-11-03": 202
     }
   },
   {
@@ -713,14 +713,14 @@
     "status": "degraded",
     "uptime": "98.88%",
     "uptimeDay": "45.76%",
-    "uptimeWeek": "48.88%",
-    "uptimeMonth": "51.79%",
-    "uptimeYear": "94.52%",
+    "uptimeWeek": "48.08%",
+    "uptimeMonth": "51.61%",
+    "uptimeYear": "94.50%",
     "time": 434,
     "timeDay": 440,
     "timeWeek": 396,
     "timeMonth": 386,
-    "timeYear": 439,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2026-09-20": 465,
       "2026-09-21": 604,
@@ -766,7 +766,7 @@
       "2026-10-31": 1031,
       "2026-11-01": 872,
       "2026-11-02": 801,
-      "2026-11-03": 122
+      "2026-11-03": 203
     }
   },
   {
@@ -777,9 +777,9 @@
     "status": "degraded",
     "uptime": "98.88%",
     "uptimeDay": "45.79%",
-    "uptimeWeek": "51.23%",
-    "uptimeMonth": "51.54%",
-    "uptimeYear": "94.52%",
+    "uptimeWeek": "50.43%",
+    "uptimeMonth": "51.35%",
+    "uptimeYear": "94.50%",
     "time": 426,
     "timeDay": 424,
     "timeWeek": 401,
@@ -830,7 +830,7 @@
       "2026-10-31": 1031,
       "2026-11-01": 871,
       "2026-11-02": 689,
-      "2026-11-03": 124
+      "2026-11-03": 205
     }
   },
   {
@@ -843,7 +843,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.51%",
+    "uptimeYear": "35.49%",
     "time": 256,
     "timeDay": 0,
     "timeWeek": 0,
@@ -917,7 +917,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-11-03": 181,
+      "2026-11-03": 262,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -1162,7 +1162,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.51%",
+    "uptimeYear": "35.49%",
     "time": 225,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1236,7 +1236,7 @@
       "2026-03-12": 93,
       "2026-03-13": 35,
       "2026-03-15": 106,
-      "2026-11-03": 181,
+      "2026-11-03": 263,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -1478,10 +1478,10 @@
     "slug": "okto-ageg-gitlab-page",
     "status": "degraded",
     "uptime": "99.14%",
-    "uptimeDay": "30.56%",
-    "uptimeWeek": "67.95%",
-    "uptimeMonth": "75.89%",
-    "uptimeYear": "96.42%",
+    "uptimeDay": "24.93%",
+    "uptimeWeek": "67.15%",
+    "uptimeMonth": "75.70%",
+    "uptimeYear": "96.40%",
     "time": 247,
     "timeDay": 434,
     "timeWeek": 400,
@@ -1535,7 +1535,7 @@
       "2026-10-31": 238,
       "2026-11-01": 437,
       "2026-11-02": 928,
-      "2026-11-03": 182
+      "2026-11-03": 264
     }
   },
   {
@@ -1624,10 +1624,10 @@
     "slug": "2-minutes-de-genie-prod",
     "status": "degraded",
     "uptime": "99.28%",
-    "uptimeDay": "24.83%",
-    "uptimeWeek": "80.15%",
-    "uptimeMonth": "80.18%",
-    "uptimeYear": "96.46%",
+    "uptimeDay": "19.17%",
+    "uptimeWeek": "79.34%",
+    "uptimeMonth": "80.00%",
+    "uptimeYear": "96.45%",
     "time": 252,
     "timeDay": 393,
     "timeWeek": 357,
@@ -1693,7 +1693,7 @@
       "2026-10-30": 528,
       "2026-11-01": 82,
       "2026-11-02": 954,
-      "2026-11-03": 128
+      "2026-11-03": 209
     }
   },
   {
@@ -1703,10 +1703,10 @@
     "slug": "2-minutes-de-genie-gitlab-page",
     "status": "degraded",
     "uptime": "99.50%",
-    "uptimeDay": "49.91%",
-    "uptimeWeek": "90.24%",
-    "uptimeMonth": "84.66%",
-    "uptimeYear": "97.54%",
+    "uptimeDay": "44.23%",
+    "uptimeWeek": "89.42%",
+    "uptimeMonth": "84.47%",
+    "uptimeYear": "97.52%",
     "time": 282,
     "timeDay": 405,
     "timeWeek": 335,
@@ -1767,7 +1767,7 @@
       "2026-10-28": 22,
       "2026-10-31": 240,
       "2026-11-02": 707,
-      "2026-11-03": 14
+      "2026-11-03": 96
     }
   },
   {
@@ -1777,10 +1777,10 @@
     "slug": "2-minutes-de-genie-staging",
     "status": "degraded",
     "uptime": "99.07%",
-    "uptimeDay": "49.92%",
-    "uptimeWeek": "76.33%",
-    "uptimeMonth": "63.84%",
-    "uptimeYear": "95.42%",
+    "uptimeDay": "44.24%",
+    "uptimeWeek": "75.52%",
+    "uptimeMonth": "63.66%",
+    "uptimeYear": "95.41%",
     "time": 254,
     "timeDay": 481,
     "timeWeek": 400,
@@ -1831,7 +1831,7 @@
       "2026-10-30": 492,
       "2026-11-01": 359,
       "2026-11-02": 707,
-      "2026-11-03": 14
+      "2026-11-03": 96
     }
   },
   {
@@ -1851,7 +1851,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-03": 185,
+      "2026-11-03": 267,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -2235,7 +2235,7 @@
     "timeMonth": 321,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2026-11-03": 186,
+      "2026-11-03": 267,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -2619,7 +2619,7 @@
     "timeMonth": 567,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2026-11-03": 186,
+      "2026-11-03": 268,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
